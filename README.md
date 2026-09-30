@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicios-m-206309b6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciosmacielsantos99@gmail.com)
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=ViniciosMSantos&style=for-the-badge&color=3fb950&label=VISITAS)
 
 </div>
 
