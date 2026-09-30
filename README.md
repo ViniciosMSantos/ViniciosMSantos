@@ -53,9 +53,7 @@
 
 <td width="50%" valign="top">
 
-<!-- Troque a imagem abaixo por um print real: suba o arquivo em pipeline_dados_v2/docs/screenshot.png
-     e troque a URL por https://raw.githubusercontent.com/ViniciosMSantos/pipeline_dados_v2/main/docs/screenshot.png -->
-[![pipeline_dados_v2](https://placehold.co/700x360/0d1117/58a6ff?text=pipeline_dados_v2&font=roboto)](https://github.com/ViniciosMSantos/pipeline_dados_v2)
+[![pipeline_dados_v2](https://github.com/user-attachments/assets/c41bd5cb-1efc-4e2c-9117-3c45f965d507)](https://github.com/ViniciosMSantos/pipeline_dados_v2)
 
 **[📦 pipeline_dados_v2](https://github.com/ViniciosMSantos/pipeline_dados_v2)**
 
@@ -94,9 +92,7 @@ Portal corporativo para centralizar e controlar o acesso a dashboards, links e f
 </td>
 <td width="50%" valign="top">
 
-<!-- Troque a imagem abaixo por um print real: suba o arquivo em analises_olist/docs/screenshot.png
-     e troque a URL por https://raw.githubusercontent.com/ViniciosMSantos/analises_olist/main/docs/screenshot.png -->
-[![analises_olist](https://placehold.co/700x360/0d1117/3fb950?text=analises_olist&font=roboto)](https://github.com/ViniciosMSantos/analises_olist)
+[![analises_olist](https://github.com/user-attachments/assets/69cd6d7f-12e0-4965-a0ea-7e50c7ce6669)](https://github.com/ViniciosMSantos/analises_olist)
 
 **[📦 analises_olist](https://github.com/ViniciosMSantos/analises_olist)**
 
