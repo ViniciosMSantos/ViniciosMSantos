@@ -61,6 +61,8 @@ Pipeline de dados modular para e-commerce (dataset Olist), orquestrado com Airfl
 
 Dashboard de operações da Olist (marketplace de e-commerce) com 5 páginas — Visão Geral, Receita, Vendas, Logística e Satisfação — construído como Google Apps Script Web App consultando dados do Databricks.
 
+**[🔴 Ver dashboard ao vivo](https://script.google.com/macros/s/AKfycbygFktd1khKSfrZB0dK_w9R0jw80RJuQ5Qg1ZGBkCe6mLsEObQAUn96wl5-_uQ48-cBPw/exec)**
+
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </td>
