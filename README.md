@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:58a6ff&height=200&section=header&text=Vinicios%20Santos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Dados%20%26%20BI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/ViniciosMSantos/ViniciosMSantos/main/assets/banner.svg" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Analista+de+Dados+%26+BI;Transformando+dados+em+decis%C3%B5es;dbt+%7C+SQL+%7C+Power+BI)](https://git.io/typing-svg)
 
@@ -53,7 +53,7 @@
 
 <td width="50%" valign="top">
 
-[![pipeline_dados_v2](https://github.com/user-attachments/assets/c41bd5cb-1efc-4e2c-9117-3c45f965d507)](https://github.com/ViniciosMSantos/pipeline_dados_v2)
+<a href="https://github.com/ViniciosMSantos/pipeline_dados_v2"><img width="100%" src="https://raw.githubusercontent.com/ViniciosMSantos/pipeline_dados_v2/master/docs/cover.png" alt="pipeline_dados_v2"/></a>
 
 **[📦 pipeline_dados_v2](https://github.com/ViniciosMSantos/pipeline_dados_v2)**
 
@@ -64,7 +64,7 @@ Pipeline de dados modular para e-commerce (dataset Olist), orquestrado com Airfl
 </td>
 <td width="50%" valign="top">
 
-[![dash_olist](https://github.com/user-attachments/assets/5e6c1b8d-a4d8-44ad-8254-70bec209b9ab)](https://github.com/ViniciosMSantos/dash_olist)
+<a href="https://github.com/ViniciosMSantos/dash_olist"><img width="100%" src="https://raw.githubusercontent.com/ViniciosMSantos/dash_olist/master/docs/cover.png" alt="dash_olist"/></a>
 
 **[📦 dash_olist](https://github.com/ViniciosMSantos/dash_olist)**
 
@@ -79,9 +79,9 @@ Dashboard de operações da Olist (marketplace de e-commerce) com 5 páginas —
 
 <td width="50%" valign="top">
 
-<!-- Troque a imagem abaixo por um print real: suba o arquivo em portal_bi/docs/screenshot.png
-     e troque a URL por https://raw.githubusercontent.com/ViniciosMSantos/portal_bi/main/docs/screenshot.png -->
-[![portal_bi](https://placehold.co/700x360/0d1117/bc8cff?text=portal_bi&font=roboto)](https://github.com/ViniciosMSantos/portal_bi)
+<!-- Troque a imagem abaixo por um print real: suba o arquivo em portal_bi/docs/cover.png (mesma proporção 4:3, 1200x900)
+     e troque a URL por https://raw.githubusercontent.com/ViniciosMSantos/portal_bi/main/docs/cover.png -->
+<a href="https://github.com/ViniciosMSantos/portal_bi"><img width="100%" src="https://raw.githubusercontent.com/ViniciosMSantos/ViniciosMSantos/main/assets/portal_bi_placeholder.png" alt="portal_bi"/></a>
 
 **[📦 portal_bi](https://github.com/ViniciosMSantos/portal_bi)**
 
@@ -92,7 +92,7 @@ Portal corporativo para centralizar e controlar o acesso a dashboards, links e f
 </td>
 <td width="50%" valign="top">
 
-[![analises_olist](https://github.com/user-attachments/assets/69cd6d7f-12e0-4965-a0ea-7e50c7ce6669)](https://github.com/ViniciosMSantos/analises_olist)
+<a href="https://github.com/ViniciosMSantos/analises_olist"><img width="100%" src="https://raw.githubusercontent.com/ViniciosMSantos/analises_olist/main/docs/cover.png" alt="analises_olist"/></a>
 
 **[📦 analises_olist](https://github.com/ViniciosMSantos/analises_olist)**
 

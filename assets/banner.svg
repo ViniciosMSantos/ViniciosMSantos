@@ -1,0 +1,30 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a3d24"/>
+      <stop offset="55%" stop-color="#0d1a3d"/>
+      <stop offset="100%" stop-color="#2a1140"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7ee9a8"/>
+      <stop offset="60%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#bc8cff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="230" fill="url(#bg)"/>
+
+  <text x="600" y="118" text-anchor="middle"
+        font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif"
+        font-size="50" font-weight="800" fill="url(#titleGrad)">
+    👋 Olá, eu sou o Vinicios
+  </text>
+
+  <text x="600" y="158" text-anchor="middle"
+        font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif"
+        font-size="20" fill="#c9d1d9" opacity="0.85">
+    Analista de Dados &amp; BI
+  </text>
+
+  <path d="M0,196 C150,222 300,176 450,196 C600,216 750,176 900,196 C1000,209 1100,186 1200,196 L1200,230 L0,230 Z" fill="#0d1117"/>
+</svg>
