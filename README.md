@@ -12,10 +12,10 @@
 ### 🔍 Sobre mim
 
 - 📊 Analista de Dados & BI, focado em transformar dados brutos em decisões
-- 🛠️ Construo pipelines com **dbt** e **SQL**, modelando dados para análise
-- 📈 Crio dashboards em **Power BI** e **Looker Studio** que contam histórias, não só números
-- 🌱 Aprofundando conhecimento em **Python** e orquestração de dados (Airflow/Databricks)
-- 💬 Fale comigo sobre SQL, dbt, Power BI ou dados em geral
+- 🛠️ Trabalho com **SQL** e **Python** para tratar e analisar dados no dia a dia
+- 📈 Crio dashboards em **Power BI** que contam histórias, não só números
+- ⚙️ Automatizo processos com **n8n** e consulto dados direto no **Databricks**
+- 💬 Fale comigo sobre SQL, Power BI, Databricks ou dados em geral
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/vinicios-m-206309b6/) · viniciosmacielsantos99@gmail.com
 
 ### 🧰 Stack
@@ -25,25 +25,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Dados & ETL**
+**Dados & Automação**
 
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **BI & Visualização**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 📌 Repositórios em destaque
 
