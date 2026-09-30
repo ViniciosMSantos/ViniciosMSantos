@@ -103,16 +103,16 @@ Análise exploratória de dados com pandas do dataset Olist.
 Atuação direta em análise de dados: SQL, Databricks, Power BI, Python, automação/RPA e qualidade de dados, com foco em indicadores operacionais de volume, produtividade, SLA e TMR.
 
 - **Conferência e Validação de Documentos (OCR)** — dashboard para monitorar volume, filas e produtividade da operação (picos de +1.000 documentos/dia), acompanhando também a chegada da validação automática por OCR.
-- **Consistência e Sincronização de Contatos (Data Quality)** — análise em SQL/Databricks que identificou divergência de contatos em mais de 80% dos clientes, com relatório HTML usado depois para validar a automação de sincronização.
+- **Consistência e Sincronização de Contatos (Data Quality)** — análise em SQL/Databricks que identificou uma divergência muito grande de contatos entre os clientes, com relatório HTML usado depois para validar a automação de sincronização.
 - **Análise de Capacity — Departamento Pessoal** — cruzamento de vidas por profissional, tempo médio por vida e capacidade disponível para identificar desequilíbrios de carga entre os profissionais do DP.
-- **Portal de Vendas** — manutenção e evolução de uma aplicação em Django/PostgreSQL, ampliando os campos de orçamentos e pedidos para permitir futuras análises de produtos e capacidade operacional.
+- **Portal de Vendas** — manutenção e evolução de uma aplicação em Streamlit/Python, ampliando os campos de orçamentos e pedidos para permitir futuras análises de produtos e capacidade operacional.
 
 #### 🏢 BHUB.ai — Estagiário em Product Operations
 `nov/2024 – mar/2026`
 
 Base da trajetória em dados: acompanhamento das operações Fiscal, Contábil e DP, com relatórios, KPIs e automações usando Power BI, Looker Studio, Excel, Python e n8n.
 
-- **Monitoramento de Notas Fiscais (RPA)** — coleta e tratamento de dados para acompanhar +100 mil notas fiscais/mês. Arquitetura Robot Framework → Python → S3 → Databricks → SQL → Power BI/HTML, com indicadores de volume, TMR, SLA e produtividade.
+- **Monitoramento de Notas Fiscais (RPA)** — coleta e tratamento de dados para acompanhar +100 mil notas fiscais/mês. Automação iniciada em Robot Framework e depois migrada para Playwright, com o restante do pipeline em Python → S3 → Databricks → SQL → Power BI/HTML, com indicadores de volume, TMR, SLA e produtividade.
 - **Certificados Digitais e Procurações** — consolidação de certificados espalhados em diferentes locais em um dashboard Power BI, elevando a cobertura acompanhada a mais de 70% dos clientes.
 
 *Total: ~1 ano e 10 meses na BHUB.ai, evoluindo de Product Operations para Análise de Dados.*
