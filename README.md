@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Analista+de+Dados+%26+BI;Transformando+dados+em+decis%C3%B5es;SQL+%7C+Python+%7C+Power+BI+%7C+Databricks)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicios-m-206309b6/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999972362?text=Ol%C3%A1%20Vinicios!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciosmacielsantos99@gmail.com)
 
 </div>
