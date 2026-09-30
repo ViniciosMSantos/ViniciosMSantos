@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ViniciosMSantos/ViniciosMSantos/main/assets/banner.svg" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Analista+de+Dados+%26+BI;Transformando+dados+em+decis%C3%B5es;dbt+%7C+SQL+%7C+Power+BI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Analista+de+Dados+%26+BI;Transformando+dados+em+decis%C3%B5es;SQL+%7C+Python+%7C+Power+BI+%7C+Databricks)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicios-m-206309b6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciosmacielsantos99@gmail.com)
